@@ -3,7 +3,7 @@
 ### Class:
 - BirthdayCalender - Root of Application
 
-### Fuctionalities:
+### Functionalities:
 - Prints birthdate, day of week, years of a user, next birthdate, days left for next birthday, half birthdate
 
 ### Built With(Technology):
